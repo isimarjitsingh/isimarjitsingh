@@ -3,7 +3,7 @@
 - 🎓 Studying Computer Science at @CTU
 - 💡 Exploring web development, DSA
 - 🚀 Passionate about open-source projects
-- 🎮 Gamer by night, coder by day
+- 🎮 Gamer by day, coder by night
 ## 🚀 Fun Fact
 I once wrote a program that generated random haikus about coffee. ☕
 Feel free🙏 to explore my repositories and drop me a message—I'm always up for a coding adventure! 😊
