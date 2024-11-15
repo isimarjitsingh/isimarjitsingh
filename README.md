@@ -1,17 +1,15 @@
-- 👋 Hi, I’m @isimarjitsingh
- 🌟 About Me
-- 🎓 Studying Computer Science at @CTU<h1 align="center"> Yo!!! I'm Ananya <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+<h1 align="center"> Yo!!! I'm Simarimg src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
 <p align="center"> 
-  <a href="https://www.linkedin.com/in/ananya-gupta-30aa9b28b/"> 
+  <a href="https://www.linkedin.com/in/simarjit-singh-875235313/"> 
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Ananya LinkedIn" height='20' width='90'/>
   </a>
-  <a href="https://github.com/ananyag309"> 
+  <a href="https://github.com/isimarjitsingh/"> 
     <img src="https://img.shields.io/static/v1?message=GitHub&style=for-the-badge&logo=github&&logoColor=white&label=%20" alt="Ananya GitHub" height='20' width='80'/>  
   </a>
 </p>
 
 <div align="center" width="50%">
-  <p> Coding is my love language :) </p>
+  <p> Gamer By Day Coder By Night :) </p>
   <img src="https://github.com/ananyag309/ananyag309/blob/main/69b39f6dab8b07dc4b1e5039054b9f50.gif" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/>
   <br>
   <p><strong>"🎓 College. ☕️ Coffee. 💻 Code. Repeat."<br><br> Vibing to: 🎧</strong></p>
