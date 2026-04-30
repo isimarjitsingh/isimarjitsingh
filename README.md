@@ -64,7 +64,7 @@
 
 ## 📫 Connect With Me
 - 🌐 GitHub: https://github.com/isimarjitsingh
-- 💼 LinkedIn: (https://www.linkedin.com/in/simarjit-singh-875235313/)
+- 💼 LinkedIn: https://www.linkedin.com/in/simarjit-singh-875235313
 - 📧 Email: me.simarjitsingh@gmail.com
 
 ---
