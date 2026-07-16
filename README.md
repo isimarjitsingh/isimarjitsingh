@@ -4,12 +4,11 @@
 ---
 
 ## 🌟 About Me
-- 💻 Passionate about **Frontend Development & Generative AI**
-- 🧠 Currently learning **Machine Learning & AI Systems**
+- 💻 Passionate about **Agentic AI & RAG System**
+- 🧠 Currently learning **AI Agentic Systems**
 - 🏆 Ranked **25th in GSSoC** with 99 PRs & 3220 points
 - 🏅 Winner of **Best Tech for Education Innovation (National Hackathon)**
-- 🔭 Working on **AI-based projects & Web Apps**
-- ⚡ Fun fact: I love building impactful tech 🚀
+- 🔭 Working on **Multi-AI Agent System**
 
 ---
 
